@@ -1,9 +1,10 @@
 header {
+  background-color: inherit;
   text-align: center;
   color: orange;
   font-family: sans-serif;
   font-size: 40px;
-  line-height: 1.2;
+  line-height: 1.5;
 }
 
 nav {
@@ -11,5 +12,5 @@ nav {
   color: red;
   font-family: monospace;
   line-height: 1.5;
-  text-align: center
+  text-align: center;
 }
