@@ -1,7 +1,15 @@
+header {
+  text-align: center;
+  color: orange;
+  font-family: sans-serif;
+  font-size: 40px;
+  line-height: 1.2;
+}
+
 nav {
+  background-color: orange;
   color: red;
-  margin-left: 20px;
-  margin-top: 20px;
   font-family: monospace;
   line-height: 1.5;
+  text-align: center
 }
