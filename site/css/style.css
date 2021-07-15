@@ -7,10 +7,18 @@ header {
   line-height: 1.5;
 }
 
+ul {
+  list-style: none;
+}
 nav {
   background-color: orange;
   color: red;
   font-family: monospace;
   line-height: 1.5;
   text-align: center;
+}
+
+#main-paragraph {
+  line-height: 1.5;
+  font-family: sans-serif;
 }
