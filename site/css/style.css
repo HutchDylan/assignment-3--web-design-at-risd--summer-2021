@@ -1,7 +1,7 @@
 header {
-  background-color: inherit;
+  background-color: darkslateblue;
   text-align: center;
-  color: orange;
+  color: coral;
   font-family: 'Fugaz One', cursive;
   font-size: 40px;
   line-height: 1.5;
@@ -10,14 +10,16 @@ header {
 ul {
   list-style: none;
   text-align: center;
+  text-decoration: none;
 }
 
 nav {
-  background-color: orange;
+  background-color: aquamarine;
   color: red;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
   text-align: center;
+  text-decoration: none;
 }
 
 #main-paragraph {
