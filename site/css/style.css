@@ -45,8 +45,12 @@ nav {
 #description {
   line-height: 1.5;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 110%;
+  font-size: 130%;
   background-color: darkslateblue;
   color: aquamarine;
   padding: 50px;
+}
+
+.highlight {
+  color: coral;
 }
