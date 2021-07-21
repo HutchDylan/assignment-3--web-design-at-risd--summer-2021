@@ -31,7 +31,8 @@ nav {
   font-size: 105%;
   line-height: 1.5;
   text-align: center;
-  text-shadow: #FFFFFF 1px 0 10px;
+  background-color: #FFFFFF;
+  opacity: .5;
 }
 
 #main-paragraph {
