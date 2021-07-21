@@ -20,7 +20,6 @@ ul {
   padding-bottom: 20px;
   line-height: 1.7;
   font-weight: bold;
-  background-image: url('img/useful-christaan-colen.jpg');
 }
 
 a {
@@ -32,7 +31,7 @@ nav {
   font-size: 105%;
   line-height: 1.5;
   text-align: center;
-  background-color: white;
+  text-shadow: #FFFFFF 1px 0 10px;
 }
 
 #main-paragraph {
